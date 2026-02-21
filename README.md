@@ -1,2 +1,3 @@
 # bars
 test
+.
